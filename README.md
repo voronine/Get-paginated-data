@@ -18,3 +18,6 @@ React
 – Кеширование на стороне клиента
 
 https://github.com/the-road-to-learn-react/hackernews-client/tree/5.3.1
+
+Перед написанием первого теста снимка с помощью Jest вам необходимо установить следующую библиотеку.
+npm install --save-dev react-test-renderer
