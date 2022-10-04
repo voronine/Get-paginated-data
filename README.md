@@ -16,3 +16,5 @@ React
 – Поиск на стороне клиента и сервера
 – Разбивка на страницы данных
 – Кеширование на стороне клиента
+
+https://github.com/the-road-to-learn-react/hackernews-client/tree/5.3.1
